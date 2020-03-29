@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+}
+
+.container {
+  background-color: dodgerblue;
+  justify-content: space-between;
+  flex-direction: row;
+  display: flex;
+  color: white;
+  padding: 10px;
+}
+
+.row {
+  justify-content: space-between;
+  flex-direction: row;
+  color: white;
+  display: flex;
+  width: 20%;
+}
+
+.link{
+  color: white;
+  text-decoration: none;
+}
